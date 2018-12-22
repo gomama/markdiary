@@ -1,0 +1,21 @@
+{
+  "name": "markdiary",
+  "version": "0.1.0",
+  "description": "diary editor using markdown.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomama/markdiary.git"
+  },
+  "keywords": [],
+  "author": "gomama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gomama/markdiary/issues"
+  },
+  "homepage": "https://github.com/gomama/markdiary#readme"
+}
